@@ -48,3 +48,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________________________
 
 myScriptui.py --->>> Takes input as (VDb) and a query and give response processed through mistral in User interface(chatbot)
+
+____________________________________________________________________________________________________________________________________________________________________
+
+combined_tts_stt_with_cbv.py -->(voice assistant) contain speech to query generation, text to speech option in user interfacr
